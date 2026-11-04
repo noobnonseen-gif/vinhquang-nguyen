@@ -22,29 +22,15 @@ With experience in banking, foreign exchange and corporate customer management, 
 
 ## Featured Projects
 
-### 1. FX Sales Performance Analysis
+### 1. Hospital Cost Analysis
 
-A data analytics project that evaluates FX sales performance by customer, region, business unit and currency.
+SQL analysis of healthcare insurance costs, cost drivers, risk segments, and high-cost individuals.
 
-**Tools:** SQL, Python, Power Query, Power BI and DAX
+**Tools:** SQL, MySQL, CTEs, Window Functions
 
-**Status:** In progress
+[View Project](https://github.com/vinhquang-nguyen/hospital
 
-### 2. FX Customer Segmentation
 
-A customer segmentation project designed to identify high-value, growing, stable and declining FX customer groups.
-
-**Tools:** Python, Pandas, SQL and Power BI
-
-**Status:** Planned
-
-### 3. Automated Management Reporting
-
-An automated reporting workflow designed to reduce manual Excel processing and improve reporting accuracy.
-
-**Tools:** Excel, Power Query and Power BI
-
-**Status:** Planned
 
 ## Current Learning Focus
 
