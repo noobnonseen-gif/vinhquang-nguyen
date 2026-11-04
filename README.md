@@ -28,7 +28,7 @@ SQL analysis of healthcare insurance costs, cost drivers, risk segments, and hig
 
 **Tools:** SQL, MySQL, CTEs, Window Functions
 
-[View Project](https://github.com/vinhquang-nguyen/hospital
+[View Project] (https://github.com/noobnonseen-gif/hospital-cost-analysis)
 
 
 
